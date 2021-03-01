@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25acc16d-728c-4f24-84a1-7c6db3f2797c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bis77w8sNcu9Vsj0s1FcL5JdKW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.stream.misra.Main" />
+      <module name="MisraGries" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stream.misra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.stream.misra.Main" />
+      <module name="MisraGries" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="MisraGries" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="-usejavacp" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25acc16d-728c-4f24-84a1-7c6db3f2797c" name="Default Changelist" comment="" />
+      <created>1589126078761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589126078761</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589148136371">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.826@0.0.1536.826" timestamp="1589148136371" />
+    <state x="548" y="120" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1589147989019">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="548" y="120" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.826@0.0.1536.826" timestamp="1589147989019" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589147976925">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.826@0.0.1536.826" timestamp="1589147976925" />
+    <state x="548" y="170" key="FileChooserDialogImpl" timestamp="1589148098387">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1589148098387" />
+    <state width="1492" height="206" key="GridCell.Tab.0.bottom" timestamp="1589531347412">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="206" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1589531347412" />
+    <state width="1492" height="206" key="GridCell.Tab.0.center" timestamp="1589531347412">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="206" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1589531347412" />
+    <state width="1492" height="206" key="GridCell.Tab.0.left" timestamp="1589531347412">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="206" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1589531347412" />
+    <state width="1492" height="206" key="GridCell.Tab.0.right" timestamp="1589531347412">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="206" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1589531347412" />
+    <state width="1492" height="206" key="GridCell.Tab.1.bottom" timestamp="1589147789901">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="206" key="GridCell.Tab.1.bottom/0.0.1536.826@0.0.1536.826" timestamp="1589147789901" />
+    <state width="1492" height="206" key="GridCell.Tab.1.center" timestamp="1589147789901">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="206" key="GridCell.Tab.1.center/0.0.1536.826@0.0.1536.826" timestamp="1589147789901" />
+    <state width="1492" height="206" key="GridCell.Tab.1.left" timestamp="1589147789901">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="206" key="GridCell.Tab.1.left/0.0.1536.826@0.0.1536.826" timestamp="1589147789901" />
+    <state width="1492" height="206" key="GridCell.Tab.1.right" timestamp="1589147789901">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="206" key="GridCell.Tab.1.right/0.0.1536.826@0.0.1536.826" timestamp="1589147789901" />
+  </component>
+</project>
